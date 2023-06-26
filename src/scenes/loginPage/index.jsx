@@ -26,6 +26,7 @@ const LoginPage = () => {
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
           Welcome to Connecting Point, the Social Media platform for all!
+        Please Fill all field for resgistration
         </Typography>
         <Form />
       </Box>
